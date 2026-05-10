@@ -1,7 +1,8 @@
 <!-- Header -->
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=120&section=header&text=Your%20Name&fontSize=40&fontColor=ffffff&animation=fadeIn)
+# Hey, I'm Forge 👋
+### CS Student · Systems Curious · Breaking things at the lowest level
 
 </div>
 
