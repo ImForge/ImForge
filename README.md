@@ -60,9 +60,9 @@ me = {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ImForge&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=ImForge&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?ImForge=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Visitor Count](https://komarev.com/ghpvc/?username=ImForge&color=blueviolet&style=flat-square)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ImForge&theme=tokyonight&hide_border=true)
 
