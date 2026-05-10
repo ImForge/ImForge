@@ -55,7 +55,7 @@ me = {
 | 🔭 Building | A project that will definitely not segfault... probably |
 | 📚 Learning | Systems programming, memory, how CPUs actually think |
 | 🧩 Exploring | Low-level concepts — pointers, processes, the works |
-| 🎯 2025 Goal | Ship 3 real projects. Break them. Fix them. Repeat. |
+| 🎯 2026 Goal | Ship 3 real projects. Break them. Fix them. Repeat. |
 
 ---
 
