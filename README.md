@@ -1,17 +1,7 @@
 <!-- Header -->
 <div align="center">
 
-```
-██╗  ██╗███████╗██╗     ██╗      ██████╗
-██║  ██║██╔════╝██║     ██║     ██╔═══██╗
-███████║█████╗  ██║     ██║     ██║   ██║
-██╔══██║██╔══╝  ██║     ██║     ██║   ██║
-██║  ██║███████╗███████╗███████╗╚██████╔╝
-╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝
-```
-
-### `$ whoami`
-> CS student · Systems curious · Breaking things at the lowest level possible
+![Header](https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=120&section=header&text=Your%20Name&fontSize=40&fontColor=ffffff&animation=fadeIn)
 
 </div>
 
