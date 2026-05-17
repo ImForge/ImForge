@@ -93,7 +93,7 @@ while (alive) {
 
 <div align="center">
 
-*"First, solve the problem. Then, write the code."* — but also just write the code and see what explodes.
+*"First, solve the problem. Then, write the code."* but also just write the code and see what explodes.
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ImForge&color=blueviolet&stylee=flat-squar)
 
