@@ -13,7 +13,10 @@ I'm a CS student from India who learns by breaking things on purpose. You can ca
 
 ## Badges
 
-**My GitHub Stats**
+## My GitHub Stats
 
-[![Forge's GitHub streak](https://streak-stats.demolab.com/?user=ImForge&theme=dark&hide_border=true)](https://git.io/streak-stats)
-[![Forge's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImForge&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-streak-stats.herokuapp.com/?user=ImForge&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api?username=ImForge&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ImForge&layout=compact&theme=tokyonight&hide_border=true)
