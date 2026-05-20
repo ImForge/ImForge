@@ -1,9 +1,8 @@
 # Hi!👋 My name is Shivam
 
-Hello my name is Shivam, I also go by **Forge** online.
+The forge is open — code goes in, projects come out. Sometimes they even work.
 
-- 🌍 I'm based in India
-- 💌 You can contact me at [cdrshivam@gmail.com](mailto:cdrshivam@gmail.com)
+I'm a CS student from India who learns by breaking things on purpose. You can call me **Forge**, reach me at [cdrshivam@gmail.com](mailto:cdrshivam@gmail.com), or just scroll down.
 
 ## Socials
 
@@ -16,4 +15,6 @@ Hello my name is Shivam, I also go by **Forge** online.
 
 **My GitHub Stats**
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ImForge&theme=dark&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![Forge's GitHub streak](https://streak-stats.demolab.com/?user=ImForge&theme=dark&hide_border=true&border_radius=10)](https://git.io/streak-stats)
+
+[![Forge's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImForge&show_icons=true&theme=dark&hide_border=true&border_radius=10&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
