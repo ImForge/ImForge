@@ -1,6 +1,5 @@
 # Hi!👋 My name is Shivam
 
-The forge is open — code goes in, projects come out. Sometimes they even work.
 
 I'm a CS student from India who learns by breaking things on purpose. You can call me **Forge**, reach me at [cdrshivam@gmail.com](mailto:cdrshivam@gmail.com), or just scroll down.
 
